@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: ollama
+  ai:
+    ollama:
+      base-url: "http://localhost:11434"
+
+async-config:
+  core-pool-size: 10
+  max-pool-size: 2147483647
+  queue-capacity: 0
