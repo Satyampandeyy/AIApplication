@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: ollama
-  ai:
-    ollama:
-      base-url: "http://localhost:11434"
